@@ -36,8 +36,7 @@ Télécharger le fichier lancer le à l'aide d'un compilateur par exemple sur l'
 
 ![image](https://user-images.githubusercontent.com/64131206/150562123-92bbf03e-f6ff-4039-a168-221e33d9f489.png)
 
-Pour la bissection je prendrai arbitrairement l'intervalle [0,5] sans que j'ai pus voir sur la figure ci-dessus que la fonction possedait 2 extrémas locaux, l'un en -2 et l'autre en 2
-
+Pour la bissection je prendrai arbitrairement l'intervalle [0,5] sans que j'ai pus voir sur la figure ci-dessus que la fonction possedait 2 extrémas locaux.
 
 
 
