@@ -51,8 +51,7 @@ Pas accéléré : Résultat
 Bissection : Résultat
 Pour la bissection je prendrai arbitrairement l'intervalle [0,2.5] sans que j'ai pus voir sur la figure ci-dessus que la fonction possedait 2 extrémas locaux.
 
-![image](https://user-images.githubusercontent.com/64131206/150573361-2340d96e-25f9-43a6-8465-5d2e1178c226.png)
-
+![image](https://user-images.githubusercontent.com/64131206/150577196-674e7b99-3ca6-40ed-9fd5-789deb3e696f.png)
 
 
 
