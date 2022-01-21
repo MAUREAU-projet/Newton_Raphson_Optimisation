@@ -36,8 +36,22 @@ Télécharger le fichier lancer le à l'aide d'un compilateur par exemple sur l'
 
 ![image](https://user-images.githubusercontent.com/64131206/150562123-92bbf03e-f6ff-4039-a168-221e33d9f489.png)
 
-Pour la bissection je prendrai arbitrairement l'intervalle [0,5] sans que j'ai pus voir sur la figure ci-dessus que la fonction possedait 2 extrémas locaux.
+Pas fixe : Résultat
+![image](https://user-images.githubusercontent.com/64131206/150573664-3d013756-05a0-48c5-9053-63863e3bb94d.png)
 
+![image](https://user-images.githubusercontent.com/64131206/150573742-5fdf07dd-349a-4430-96d8-1822d5a0e058.png)
+
+
+Pas accéléré : Résultat
+![image](https://user-images.githubusercontent.com/64131206/150573479-80b90dd0-bdd9-4093-80ed-822372e1a5cc.png)
+
+![image](https://user-images.githubusercontent.com/64131206/150573609-085fdf7e-0cd0-444e-8586-a5d0ac0c562c.png)
+
+
+Bissection : Résultat
+Pour la bissection je prendrai arbitrairement l'intervalle [0,2.5] sans que j'ai pus voir sur la figure ci-dessus que la fonction possedait 2 extrémas locaux.
+
+![image](https://user-images.githubusercontent.com/64131206/150573361-2340d96e-25f9-43a6-8465-5d2e1178c226.png)
 
 
 
