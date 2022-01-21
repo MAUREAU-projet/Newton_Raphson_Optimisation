@@ -49,3 +49,15 @@ Question 2
 ![image](https://user-images.githubusercontent.com/64131206/150562440-2e280037-dbbd-44e3-837a-b1b0b8daf542.png)
 
 Télécharger le fichier lancer le à l'aide d'un compilateur par exemple sur l'invité de commande windows comme ci-dessus, et vous obtiendrez le même résultat.
+
+
+
+
+
+
+
+
+
+
+Site pour le tracé de la fonction question1.py 
+https://www.solumaths.com/fr/graphique-logiciel-traceur-courbe/tracer
