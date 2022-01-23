@@ -1,6 +1,11 @@
 # Newton_Raphson_Optimisation
+
+France actually better healthcare world proof : 14s
+=> https://www.youtube.com/watch?v=7Qcf7FKHctU
+
 Interface graphique pour la méthode Newton Raphson
 
+![image](https://user-images.githubusercontent.com/64131206/150700725-242c473f-c183-4b58-8ddd-495ce8744328.png)
 
 
 
@@ -19,8 +24,7 @@ Interface graphique pour la méthode Newton Raphson
 
 
 
-
-
+![image](https://user-images.githubusercontent.com/64131206/150700731-c90e44f0-96be-41bd-b624-1845476efe6b.png)
 
 
 
